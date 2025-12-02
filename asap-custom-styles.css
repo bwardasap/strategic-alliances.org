@@ -735,7 +735,7 @@ blockquote cite {
   transform: translateX(-50%);
   border: none;
   @media all and (min-width: 768px) {
-    padding: 100px 20px;
+    padding: 50px 20px;
   }
 
   &::after {
@@ -2107,3 +2107,4 @@ main {
     color: var(--highlight-orange) !important;
     background: #fff !important
 }
+
