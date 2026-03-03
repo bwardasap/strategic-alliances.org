@@ -200,6 +200,13 @@ header {
   }
 }
 
+.sponsor-row {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Event title handling */
 .body-content .main-event .event-info h1.long {
   display: -webkit-box;
@@ -2107,4 +2114,5 @@ main {
     color: var(--highlight-orange) !important;
     background: #fff !important
 }
+
 
